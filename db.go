@@ -10,6 +10,7 @@ import (
     "gorm.io/gorm/logger"
 )
 
+
 const (
     host     = "10.10.0.117"
     user     = "postgres"
